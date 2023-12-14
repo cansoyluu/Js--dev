@@ -1,0 +1,19 @@
+.can2 {
+    
+    color:#403D39;
+    font-weight: 600;
+}
+
+.can {
+    border: 5px solid rgb(10, 9, 7);
+    border-radius: 15px;
+    padding: 15px;
+    margin-top: 45px;
+    font-weight: 400;
+    background-color: #d5d5d5;
+}
+.can3 { border: 5px #626973 solid;
+border-radius: 15px;
+margin: auto;
+background-color: #F2F2F2;
+}
